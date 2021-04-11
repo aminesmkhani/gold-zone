@@ -21,7 +21,7 @@ It's just like any other Simple project. Basically here is how you use it for yo
 
 .
 
-- Clone the repo `https://github.com/Amin-esmkhani/gold-zone.git`
+- Clone the repo `https://github.com/aminesmkhani/gold-zone.git`
 - `cd` to project folder.
 - Run `index.html`
 - Done !!! Enjoy `Run` app
@@ -57,7 +57,7 @@ ___
 
 .
 
-- دانلود مخزن `https://github.com/Amin-esmkhani/gold-zone.git`
+- دانلود مخزن `https://github.com/aminesmkhani/gold-zone.git`
 - وارد مسیری که پروژه رو دانلود کردید بشوید.
 - صفحه  `index.html` را اجرا کنید
 - انجام شد از `برنامه ` لذت ببرید
